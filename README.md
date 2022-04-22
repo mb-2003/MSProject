@@ -10,17 +10,11 @@
 # Installation 
 ## Dependencies
 
-NumPy, ortools, and PubChemPy, along with multiple default Python packages are all needed for full functionality. They can be installed using the following pip commands:
+NumPy, ortools, and PubChemPy, along with multiple default Python packages are all needed for full functionality. They can be installed using the following pip requirements file in CLI:
 
-`pip install numpy`
-
-`pip install ortools`
-
-`pip install chemparse`
-
-`pip install cirpy`
-
-`pip install pubchempy`
+~~~
+pip install -r reqs.txt
+~~~
 
 # Functionalities
 1. [Thermo RAW file Conversion](#1-raw-file-conversion-supported-on-windows-only)
