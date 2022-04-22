@@ -1,0 +1,13 @@
+absl-py==1.0.0
+chemparse==0.1.1
+colorama==0.4.4
+comtypes==1.1.11
+numpy==1.22.3
+ortools==9.3.10497
+protobuf==3.20.1
+PubChemPy==1.0.4
+pymsfilereader==1.0.1
+PyYAML==6.0
+scipy==1.8.0
+six==1.16.0
+tqdm==4.64.0
