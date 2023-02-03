@@ -16,7 +16,7 @@ NumPy, ortools, and PubChemPy, along with multiple default Python packages are a
 pip install -r reqs.txt
 ~~~
 
-In addition, the Thermo MSFileReader dynamic link library (dll) is required for direct processing of Thermo .RAW files. 
+In addition, the [Thermo MSFileReader](https://drive.google.com/file/d/1waXJOOtkMs7tQrv6bzDDVYz8yOs_PwoD/view?usp=share_link) dynamic link library (dll) is required for direct processing of Thermo .RAW files. 
 # Functionalities
 1. [Thermo RAW file Conversion](#1-raw-file-conversion-supported-on-windows-only)
 
